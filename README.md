@@ -1,5 +1,3 @@
-![](https://i.imgur.com/Y80SpfK.jpg)
-
 SongTube is a new beautiful and fast application made in flutter, it supports YouTube audio and video downloading at any quality, In-App YouTube Browser, audio conversion, Playlists and an Audio tags editor.
 
 ---
